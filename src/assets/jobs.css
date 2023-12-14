@@ -1,42 +1,26 @@
 .red {
-  border: 5px solid red;
-  width: 150px;
-  height: 150px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  border-color: red;
 }
 .green {
-  border: 5px solid green;
-  width: 150px;
-  height: 150px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  border-color: green;
 }
 .blue {
-  border: 5px solid #1e9fe3;
-  width: 150px;
-  height: 150px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  border-color: #1e9fe3;
 }
 .salmon {
-  border: 5px solid #f8c5af;
-  width: 150px;
-  height: 150px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  border-color: #f8c5af;
 }
 .yellow {
-  border: 5px solid #fdee02;
+  border-color: #fdee02;
+}
+.box {
   width: 150px;
   height: 150px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  border-width: 5px;
+  border-style: solid;
 }
 
 .jobs {
