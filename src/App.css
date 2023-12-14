@@ -1,0 +1,16 @@
+h1 {
+  font-size: 30px;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+strong {
+  font-weight: 600;
+}
+.footer {
+  background-color: #dddddd;
+  text-align: center;
+  padding: 15px;
+  font-size: 0.8em;
+}

@@ -1,0 +1,55 @@
+.red {
+  border: 5px solid red;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.green {
+  border: 5px solid green;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.blue {
+  border: 5px solid #1e9fe3;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.salmon {
+  border: 5px solid #f8c5af;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.yellow {
+  border: 5px solid #fdee02;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.jobs {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px 20% 20px 20%;
+  flex-wrap: wrap;
+}
+.title {
+  padding: 10px;
+}
+.details {
+  font-size: 10px;
+  padding: 10px;
+}
